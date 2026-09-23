@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Karolina Sienko
+
+I'm currently a student in the Master of Environmental Data Science program at the Bren School of Environmental Science & Management at the University of California, Santa Barbara.
 
 <!--
 **karolinasienko/karolinasienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
